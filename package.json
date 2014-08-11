@@ -1,6 +1,6 @@
 {
     "name":             "admeasure",
-    "version":          "9.9.9",
+    "version":          "0.0.0",
     "author":           "Alan Gutierrez <alan@prettyrobots.com>",
     "description":      "Partition a collated collection for split within a b-tree.",
     "keywords":
