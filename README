@@ -1,0 +1,17 @@
+Admeasure
+
+Partition a collated collection for split within a b-tree.
+
+    Discussion:     http://github.com/bigeasy/admeasure/issues/1
+
+    Documentation:  http://bigeasy.github.io/admeasure
+    Source:         http://github.com/bigeasy/admeasure
+    Issues:         http://github.com/bigeasy/admeasure/issues
+
+    Install:        `npm install admeasure`
+
+    License:        MIT
+
+To learn everything you want to know about Admeasure start here:
+
+    http://bigeasy.github.io/admeasure

@@ -1,0 +1,34 @@
+{
+    "name":             "admeasure",
+    "version":          "9.9.9",
+    "author":           "Alan Gutierrez <alan@prettyrobots.com>",
+    "description":      "Partition a collated collection for split within a b-tree.",
+    "keywords":
+    [
+                        "btree", "database", "json", "b-tree", "leveldb", "levelup"
+    ],
+    "contributors":     [],
+    "homepage":         "https://github.com/bigeasy/admeasure",
+    "bugs":             "https://github.com/bigeasy/admeasure/issues",
+    "licenses":
+    [{
+                        "type": "MIT",
+                        "url": "http://github.com/bigeasy/admeasure/raw/master/LICENSE"
+    }],
+    "repository":
+    {
+                        "type": "git",
+                        "url": "http://github.com/bigeasy/admeasure.git"
+    },
+    "dependencies":
+    {
+    },
+    "devDependencies":
+    {
+                        "proof":              "0.0.45"
+    },
+    "scripts":
+    {
+                        "test": "proof platform win32 && proof test */*/*.t.js || t/test"
+    }
+}
